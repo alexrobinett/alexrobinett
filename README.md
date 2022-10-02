@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Robinett</h1>
-<h3 align="center">A passionate Full-stack Developer from A</h3>
+<h3 align="center">A passionate Full-stack Developer from Atlanta, GA</h3>
 
 - 🔭 I’m currently working on **100Devs**
 
