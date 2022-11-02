@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex Robinett</h1>
 <h3 align="center">A passionate Full-stack Developer from Atlanta, GA</h3>
 
-- 🔭 I’m currently working on **100Devs**
+- 🔭 I’m currently working on **100Devs/TheOdinProject**
 
 - 🌱 I’m currently learning **Full Stack Web Dev**
 
-- 📫 How to reach me **alex@robinett.com**
+- 📫 How to reach me **alex@robinettmedia.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
