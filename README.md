@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **100Devs/TheOdinProject**
 
-- 🌱 I’m currently learning **Full Stack Web Dev**
+- 🌱 I’m currently learning **Node.JS**
 
 - 📫 How to reach me **alex@robinettmedia.com**
 
