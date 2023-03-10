@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex Robinett</h1>
 <h3 align="center">A passionate Full-stack Developer from Atlanta, GA</h3>
 
-- 🔭 I’m currently working on **100Devs/TheOdinProject**
+- 🔭 I’m currently working on **Building the Next Digital Signage Platform**
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **alex@robinettmedia.com**
 
