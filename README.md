@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building the Next Digital Signage Platform**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Next.JS and TypeScript **
 
 - 📫 How to reach me **alex@robinettmedia.com**
 
